@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "T9D-yf-IrS"; */
+"T9D-yf-IrS.text" = "Name";
+
+/* Class = "UILabel"; text = "Serial"; ObjectID = "qaj-vJ-8RV"; */
+"qaj-vJ-8RV.text" = "Serial";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "tOl-Wk-6rF"; */
+"tOl-Wk-6rF.title" = "Item";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "tm0-Hs-Edo"; */
+"tm0-Hs-Edo.text" = "Value";

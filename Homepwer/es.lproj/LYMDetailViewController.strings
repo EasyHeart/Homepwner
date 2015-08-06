@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "T9D-yf-IrS"; */
+"T9D-yf-IrS.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Serial"; ObjectID = "qaj-vJ-8RV"; */
+"qaj-vJ-8RV.text" = "Numero de serie";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "tm0-Hs-Edo"; */
+"tm0-Hs-Edo.text" = "Valor";
